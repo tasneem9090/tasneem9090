@@ -2,7 +2,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=%EF%B7%BD;%D8%B1%D9%8E%D8%A8%D9%90%D9%91+%D8%A7%D8%B4%D9%92%D8%B1%D9%8E%D8%AD%D9%92+%D9%84%D9%90%D9%8A+%D8%B5%D9%8E%D8%AF%D9%92%D8%B1%D9%90%D9%8A+%D9%88%D9%8E%D9%8A%D9%8E%D8%B3%D9%90%D9%91%D8%B1%D9%92+%D9%84%D9%90%D9%8A+%D8%A3%D9%8E%D9%85%D9%92%D8%B1%D9%90%D9%8A" alt="Typing SVG" />
 
 
+<div align="center">
 
+  <img src="https://readme-typing-svg.demolab.com?font=Amiri&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=%D8%A8%D9%90%D8%B3%D9%92%D9%85%D9%90+%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90+%D8%A7%D9%84%D8%B1%D9%8E%D9%91%D8%AD%D9%92%D9%85%D9%8E%D9%86%D9%90+%D8%A7%D9%84%D8%B1%D9%8E%D9%91%D8%AD%D9%90%D9%8A%D9%85%D9%90" alt="Basmalah" />
+
+  <h3>
+    Hi, I'm Tasneem <img src="https://flagcdn.com/w40/jo.png" alt="Jordan Flag" width="28" />
+  </h3>
+
+</div>
+
+> **رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي** 🤍  
+> I work as a Data Analyst & Web Developer.
+
+---
 
 <h3>
     Hi, I'm Tasneem <img src="https://flagcdn.com/w40/jo.png" alt="Jordan Flag" width="28" />
