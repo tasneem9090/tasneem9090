@@ -1,4 +1,4 @@
-Hi, I'm [Your Name] and I work as a [Your Role / Field, e.g., Data Analyst & Web Developer].
+Hi, I'm Tasneem and I work as a Your Role / Field, e.g., Data Analyst & Web Developer.
 
 ## Projects & Communities
 - [Project or Community Name](Link) - Brief description of what it does
@@ -8,5 +8,3 @@ Hi, I'm [Your Name] and I work as a [Your Role / Field, e.g., Data Analyst & Web
 - [Article or Blog Title](Link)
 - [Another Article Title](Link)
 
-## Courses & Certifications
-- [Course Name](Link)
