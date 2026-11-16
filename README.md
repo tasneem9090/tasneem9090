@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=%EF%B7%BD;%D8%B1%D9%8E%D8%A8%D9%90%D9%91+%D8%A7%D8%B4%D9%92%D8%B1%D9%8E%D8%AD%D9%92+%D9%84%D9%90%D9%8A+%D8%B5%D9%8E%D8%AF%D9%92%D8%B1%D9%90%D9%8A+%D9%88%D9%8E%D9%8A%D9%8E%D8%B3%D9%90%D9%91%D8%B1%D9%92+%D9%84%D9%90%D9%8A+%D8%A3%D9%8E%D9%85%D9%92%D8%B1%D9%90%D9%8A" alt="Typing SVG" />
+</div>
 Hi, I'm Tasneem and I work as a Data Analyst & Web Developer.
 
 <p align="center">
