@@ -3,9 +3,7 @@
 
 
 
-<p align="center">
-  <img src="https://flagcdn.com/w160/jo.png" width="75" alt="Jordan Flag" />
-</p>
+
 <h3>
     Hi, I'm Tasneem <img src="https://flagcdn.com/w40/jo.png" alt="Jordan Flag" width="28" />
   </h3>
