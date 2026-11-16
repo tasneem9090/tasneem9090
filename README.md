@@ -7,7 +7,6 @@
   </h3>
 
 </div>
-I work as a Data Analyst & Web Developer.
 
 ---
 
