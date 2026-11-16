@@ -8,9 +8,6 @@ Hi, I'm Tasneem and I work as a Data Analyst & Web Developer.
 - **Web Development:** C#, ASP.NET Core MVC, HTML/CSS
 - **Data Analytics:** SQL, Google BigQuery, Power BI
 - **Tools:** Git, GitHub
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasneem9090&layout=compact&theme=default)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasneem-sarde-205a6321a)
-[![Blog](https://img.shields.io/badge/My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](رابط_مدونتك_هنا)
