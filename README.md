@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Amiri&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=%D8%A8%D9%90%D8%B3%D9%92%D9%85%D9%90+%D8%A7%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90+%D8%A7%D9%84%D8%B1%D9%8E%D9%91%D8%AD%D9%92%D9%85%D9%8E%D9%86%D9%90+%D8%A7%D9%84%D8%B1%D9%8E%D9%91%D8%AD%D9%90%D9%8A%D9%85%D9%90" alt="Basmalah" />
@@ -10,9 +7,9 @@
   </h3>
 
 </div>
+I work as a Data Analyst & Web Developer.
 
-> **رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي** 🤍  
-> I work as a Data Analyst & Web Developer.
+---
 
 ---
 
