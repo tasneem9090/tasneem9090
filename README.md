@@ -19,6 +19,7 @@
 - [TrainingTrack](https://github.com/tasneem9090/TrainingTrack) - An ASP.NET Core MVC web platform for seamless training management, tracking, and evaluation.
 - [clinicapp](https://github.com/tasneem9090/clinicapp) - A clinic management application for organizing patient appointments, medical records, and daily healthcare operations.
 
+- [-Training-Analytics-Dashboard](https://github.com/tasneem9090/-Training-Analytics-Dashboard) - A data analytics dashboard built with Google BigQuery and Power BI to analyze training metrics and demographics.
 ## Skills & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
